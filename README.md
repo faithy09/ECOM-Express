@@ -14,6 +14,9 @@ E-Com Express, founded in 2010 and based in the United States, is a fast-growing
 4.Refine marketing strategies to maximize ROI
 5.Improve customer loyalty through better understanding of preferences
 
+# Project Rationale- 
+This project aims to help E-Com Express identify promotional strategies that can improve its baseline conversion rate of 2.5% in a highly competitive e-commerce market. By testing different offers, the company can determine which approach best drives sales while maintaining profitability. The insights gained will guide future marketing decisions to enhance customer acquisition, retention, and overall revenue growth.
+
 # Data Analysis
 During the promotional period, the 25% discount offer attracted a total of 16,493 views, slightly higher than the 16,119 views recorded for the free shipping offer. However, the free shipping campaign achieved a higher conversion rate of 9.86%, outperforming the 25% discount offer. In terms of average order value (AOV), customers who engaged with the 25% discount spent slightly more at $402.23, compared to $400.25 for those who responded to the free shipping offer. While the 25% discount drew more attention, the free shipping promotion proved more effective in converting views into sales, suggesting a better performance in terms of customer conversion efficiency."<img width="15528" 
 
