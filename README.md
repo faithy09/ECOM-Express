@@ -5,7 +5,7 @@ Optimization of Promotional Offer- E commerce
 # Tech Stack- Looker Studio, Google Sheet, PowerBi, Jupyter NoteBook, 
 
 # Business Overview
-E-Com Express, founded in 2010 and based in the United States, is a fast-growing e-commerce retailer specializing in consumer electronics, home appliances, and lifestyle products. Initially starting as a small online store, the company quickly gained traction with its emphasis on providing high-quality products at competitive prices. The company primarily offers a wide range of consumer electronics, home appliances, and lifestyle products such as fitness gear, kitchen gadgets, and gaming equipment. E-Com Express differentiates itself through exclusive deals, flash sales, and targeted promotional offers, all of which are integral to its marketing strategy. E-Com Express operates in a competitive environment with a focus on product variety, fast delivery, and customer service, their current baseline conversion rate is around 2.5%.<img width="17584" heig
+E-Com Express, founded in 2010 and based in the United States, is a fast-growing e-commerce retailer specializing in consumer electronics, home appliances, and lifestyle products. Initially starting as a small online store, the company quickly gained traction with its emphasis on providing high-quality products at competitive prices. The company primarily offers a wide range of consumer electronics, home appliances, and lifestyle products such as fitness gear, kitchen gadgets, and gaming equipment. E-Com Express differentiates itself through exclusive deals, flash sales, and targeted promotional offers, all of which are integral to its marketing strategy. E-Com Express operates in a competitive environment with a focus on product variety, fast delivery, and customer service, their current baseline conversion rate is around 2.5%.
 
 # Project Aim
 1.Test the effectiveness of discounts vs. free shipping on conversion rates
@@ -13,6 +13,10 @@ E-Com Express, founded in 2010 and based in the United States, is a fast-growing
 3.Optimize revenue and conversion cost-effectively
 4.Refine marketing strategies to maximize ROI
 5.Improve customer loyalty through better understanding of preferences
+
+# Project Excerpt
+Executed a data analysis project for E-Com Express to evaluate sales performance, promotional effectiveness, and customer behavior across electronics, appliances, and lifestyle products.
+Designed dashboards and conversion tracking models that provided insights into marketing strategies, helping identify opportunities to improve the company’s 2.5% baseline conversion rate.
 
 # Project Rationale- 
 This project aims to help E-Com Express identify promotional strategies that can improve its baseline conversion rate of 2.5% in a highly competitive e-commerce market. By testing different offers, the company can determine which approach best drives sales while maintaining profitability. The insights gained will guide future marketing decisions to enhance customer acquisition, retention, and overall revenue growth.
