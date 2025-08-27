@@ -7,6 +7,10 @@ Optimization of Promotional Offer- E commerce
 # Business Overview
 E-Com Express, founded in 2010 and based in the United States, is a fast-growing e-commerce retailer specializing in consumer electronics, home appliances, and lifestyle products. Initially starting as a small online store, the company quickly gained traction with its emphasis on providing high-quality products at competitive prices. The company primarily offers a wide range of consumer electronics, home appliances, and lifestyle products such as fitness gear, kitchen gadgets, and gaming equipment. E-Com Express differentiates itself through exclusive deals, flash sales, and targeted promotional offers, all of which are integral to its marketing strategy. E-Com Express operates in a competitive environment with a focus on product variety, fast delivery, and customer service, their current baseline conversion rate is around 2.5%.
 
+# Project Scope
+The project aims to analyze sales performance, customer behavior, and promotional campaign effectiveness to identify drivers impacting E-Com Express’s 2.5% conversion rate.
+The scope includes developing interactive dashboards, conversion tracking models, and actionable insights to optimize marketing strategies and enhance overall business performance.
+
 # Project Aim
 1.Test the effectiveness of discounts vs. free shipping on conversion rates
 2.Measure customer behaviors including cart abandonment and order value
